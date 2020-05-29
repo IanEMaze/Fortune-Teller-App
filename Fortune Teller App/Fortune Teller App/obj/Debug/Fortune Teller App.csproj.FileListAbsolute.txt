@@ -1,0 +1,18 @@
+C:\Users\Ian\source\repos\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.csprojAssemblyReference.cache
+C:\Users\Ian\source\repos\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune_Teller_App.Form1.resources
+C:\Users\Ian\source\repos\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune_Teller_App.Properties.Resources.resources
+C:\Users\Ian\source\repos\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.csproj.GenerateResource.cache
+C:\Users\Ian\source\repos\Fortune Teller App\Fortune Teller App\bin\Debug\Fortune Teller App.exe.config
+C:\Users\Ian\source\repos\Fortune Teller App\Fortune Teller App\bin\Debug\Fortune Teller App.exe
+C:\Users\Ian\source\repos\Fortune Teller App\Fortune Teller App\bin\Debug\Fortune Teller App.pdb
+C:\Users\Ian\source\repos\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.exe
+C:\Users\Ian\source\repos\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.pdb
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Fortune Teller App\Fortune Teller App\bin\Debug\Fortune Teller App.exe.config
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Fortune Teller App\Fortune Teller App\bin\Debug\Fortune Teller App.exe
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Fortune Teller App\Fortune Teller App\bin\Debug\Fortune Teller App.pdb
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune_Teller_App.Form1.resources
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune_Teller_App.Properties.Resources.resources
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.exe
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.pdb
