@@ -19,6 +19,9 @@ namespace Fortune_Teller_App
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Setting random number to zero before math is done
+            int num = 0;
+
             //All possible futures
             string message1 = "You will purchase a new car soon....";
             string message2 = "You will recieve a raise this year...";
@@ -34,7 +37,7 @@ namespace Fortune_Teller_App
 
             //Math time! (Random number between 0 and 8)
             Random rnd = new Random();
-            int num = rnd.Next(0, 7);
+            num = rnd.Next(0, 7);
 
             //Display future after onclick
             MessageBox.Show(messages[num]);
